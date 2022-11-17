@@ -1,0 +1,276 @@
+[
+    {
+        "productName": "Polo",
+        "shopName": "polo shop",
+        "customerPrice": "30000",
+        "originalPrice": "10000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "white",
+        "relatedProduct": "",
+        "description_en": "this is polo t shirt",
+        "description_ku": "ئەمە بلوزی پۆڵۆیە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "polo 1.jpg",
+            "polo 2.jpg",
+            "polo 3.jpg",
+            "polo 4.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Mavi",
+        "shopName": "Mavi shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "blue",
+        "relatedProduct": "",
+        "description_en": "this is mavi t shirt",
+        "description_ku": "ئەمە بلوزی ماڤیە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "mave 1.jpg",
+            "mave 2.jpg",
+            "mave 3.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Trendyol",
+        "shopName": "Trendyol shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "black",
+        "relatedProduct": "",
+        "description_en": "this is trendyol t shirt",
+        "description_ku": "ئەمە بلوزی ترەندیۆلە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "trendyol 1.jpg",
+            "trendyol 2.jpg",
+            "trendyol 3.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Happiness",
+        "shopName": "Trendyol shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "green",
+        "relatedProduct": "",
+        "description_en": "this is trendyol t shirt",
+        "description_ku": "ئەمە بلوزی ترەندیۆلە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "happiness.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Happiness",
+        "shopName": "Trendyol shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "green",
+        "relatedProduct": "",
+        "description_en": "this is trendyol t shirt",
+        "description_ku": "ئەمە بلوزی ترەندیۆلە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "happiness 2.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Polo",
+        "shopName": "polo shop",
+        "customerPrice": "30000",
+        "originalPrice": "10000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "white",
+        "relatedProduct": "",
+        "description_en": "this is polo t shirt",
+        "description_ku": "ئەمە بلوزی پۆڵۆیە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "polo 1.jpg",
+            "polo 2.jpg",
+            "polo 3.jpg",
+            "polo 4.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Mavi",
+        "shopName": "Mavi shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "blue",
+        "relatedProduct": "",
+        "description_en": "this is mavi t shirt",
+        "description_ku": "ئەمە بلوزی ماڤیە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "mave 1.jpg",
+            "mave 2.jpg",
+            "mave 3.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Trendyol",
+        "shopName": "Trendyol shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "black",
+        "relatedProduct": "",
+        "description_en": "this is trendyol t shirt",
+        "description_ku": "ئەمە بلوزی ترەندیۆلە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "trendyol 1.jpg",
+            "trendyol 2.jpg",
+            "trendyol 3.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Happiness",
+        "shopName": "Trendyol shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "green",
+        "relatedProduct": "",
+        "description_en": "this is trendyol t shirt",
+        "description_ku": "ئەمە بلوزی ترەندیۆلە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "happiness.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    },
+    {
+        "productName": "Happiness",
+        "shopName": "Trendyol shop",
+        "customerPrice": "25000",
+        "originalPrice": "23000",
+        "size": [
+            "small",
+            "medium",
+            "large"
+        ],
+        "color": "green",
+        "relatedProduct": "",
+        "description_en": "this is trendyol t shirt",
+        "description_ku": "ئەمە بلوزی ترەندیۆلە",
+        "productLocation": "baxtyari",
+        "productCity": "hawler",
+        "priceDiscount": "",
+        "images": [
+            "happiness 2.jpg"
+        ],
+        "category": "shirt",
+        "localDeliveryPrice": "3000",
+        "globalDeliveryPrice": "5000",
+        "isAvailable": true,
+        "weather": "summer"
+    }
+]

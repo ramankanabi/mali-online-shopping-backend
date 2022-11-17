@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mali-online-shopping",
+  "private_key_id": "1b6818b914fb4879d5019d82cdc977d53cafa39b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvsgN/UABEPPsb\nHWWD2Ni90RW+xAcHcAYTq3jsrvbsUsHdqMBi0BhQXC4WVeDzwkPm4+CFBCGIFMYU\nQVu2p7ZlF+WKXpqmlKKFGv0KfjroRxTiba5fLoIMcG/7RSh2c2e8Q1GobgVaSGbW\nEcHHCITnP+ZY8wm6eSEpVRJ/p1zLpU6olFCfzc6NqQ3gUkAa26gbvSK+MYIpcyHk\nJbKEba9renLgIrwMjxQaWHNQaH+DzVVBonJQoCyBKENVe4gkSjD/OiNELlRbxlKN\n/DW1u1BgZQGIC4c1ki/Mb3/TyE8L+hiF5mbP7bvkm+F4jxqxOX6aG/10I5XXEjwm\nOZjuoAaBAgMBAAECggEAA9nTj6wcyGIbiR5ro+BaLk1llA4C/y3MdUyJKMtkMj11\nXjbRWi0YVlUR5ceNt9wIfdhdar7ynvNhHM8qq+IIynYTz/THQBrShdc3x/3Iq+AI\neDbKF1AbNbt2aeAL/S4l/jttwBLCw2YCOoOOvy57rr+g3G7dxgh7AodYwaNlAlng\ntSclGb5a2Kos+6Iasvc4sTvh7wl5P0kKFYPYL6DGdabYfkGM0nQ4GLb/BEb1Yt80\ndxCqgxxYzMu8CNG60sJ80cxStRh+s6JvWHy/hOzwGFzq+cbTqXSJlgGFlfXuuZ9Y\nQ7AcqW9uqVksqADR54xSYmckLEx6m0ysFW55A1fEkQKBgQDeD1+jmmCR/dUULjO8\n+uGjDNYCzx6pbB0jpgp2XdXnO4nRT1hTSgRfTAmkyBkzdbsab3QyMN7t7ZTiXX74\n/6w4XiD39HDgbg1YxpgwZf4xV+SZeekfjr2NB4MhI9w5v/4RmgpE+60WySXVu6aK\nue37Z+/V9LyO2rJax0WOnvsI0QKBgQDKjIL9wHmj4W/my0nFcXWCHrewTit31706\nMT4p1SGvcz234WeVjDvEx4TdsvyE0H3WCOdiNvh/O7gIcKvmo57WSEw3em6STY69\nzMPeKVn2C4SRUp3gd5QJDEInmTUKsbOUO1WDw1PGauXdudDucgZouVA4CcMdyvJ2\nuNI1/DuOsQKBgCzf9nfdbr6SCUl2vMXn/UkyAt22dX/PdWQK3fplpCCCi6tc2YCb\naJ7Jgvll5pHbrN/+vgCWl7aFWJ0WP96Z7HfHrent4BG6q7/RAlhlhCT8mhnZ5R6X\nff7OEdXUpWCWSAXOl1yxb503MQosTc+jG1C/BFy8hI5p67kkpA3aWujBAoGAa6xs\niiaCw3q5OPCChAJ/nC9mKMQ1WV0Hi+LXj/dsE8/oVFLv9ND6iO4jlJNsp9IJwvky\nv8RHL6P4fgwfZdk/O9xtH+Tm2MGACyfKS9ShrSmMTJClusj2miS5GkHYr5mtxDQS\njpwMceMr1UXNaqSVAaDZoyCVZ8YWRMSVgvtWUdECgYAs1wlMOLwMCecb1jWMjmj+\njB0XZ52xBsb8xfA8vh+ofEwPTzbejNgdZFM0M2ghWmoshgPbptddn/WVThsDsG2Y\nLP1N1WzR4XkM6HGIHCjStVSZb3KbTSPpTc+Xb46j0te9uilGjB/7cDtDdEEFga1r\nx0biF3gbmaC9RwSIwLJkJA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-eupt4@mali-online-shopping.iam.gserviceaccount.com",
+  "client_id": "115964048129214299900",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-eupt4%40mali-online-shopping.iam.gserviceaccount.com"
+}
